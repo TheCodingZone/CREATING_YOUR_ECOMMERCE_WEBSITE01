@@ -1,0 +1,25 @@
+.itemContainer{
+    display: flex;
+}
+.result{
+    /* border: 2px solid red; */
+    width: 25%;
+    /* display: flex; */
+   
+}
+.price{
+    margin-left: 10px;
+    color: red;
+   
+}
+.button{
+    background-color: rgb(17, 224, 104);
+    margin-left: 200px;
+    color: rgb(24, 23, 23);
+    border: 2px solid rgb(17, 224, 104);
+    /* border-radius: 14px; */
+    box-shadow: grey;
+}
+.button:hover{
+    background-color:rgb(86, 233, 147) ;
+}
