@@ -3,7 +3,7 @@
     /* background-color: rgb(161, 155, 155); */
     color:white;
     margin-top:5px ;
-    height: 150px;
+    height: 130px;
     display: flex;
     align-items: center;
     text-align: center;
@@ -13,4 +13,5 @@
     margin-left: 500px;
     text-shadow: 1px 1px black;
     color: orangered;
+    font-weight: bold;
 }
